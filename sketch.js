@@ -204,7 +204,7 @@ function gameOver() {
   swal({
     title: "Game Over",
     text: "Thanks for playing",
-    imageUrl: "https://raw.githubusercontent.com/whitehatjr/PiratesInvasion/main/zombie.png",
+    imageUrl: "https://ih1.redbubble.net/image.453039760.7492/mwo,x1000,ipad_2_snap-pad,1000x1000,f8f8f8.u7.jpg",
     imageSize: "150x150",
     confirmText: "Play Again"
   },
